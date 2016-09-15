@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Help!</string>
+    <string name="instructions">Instructions:</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="actualinstructions">Just shake your pebble watch to tell the app to start listening for your speech. At any moment, you feel uneasy, simple yell or say the word \'help\' and Help! will take action.</string>
+    <string name="working">Listening...Click Here to Stop</string>
+    <string-array name="names">
+        <item>John</item>
+        <item>Bob</item>
+        <item>Jim</item>
+    </string-array>
+
+    <string-array name="numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
